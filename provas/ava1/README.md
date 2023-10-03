@@ -4,4 +4,7 @@
 
 #### _Disciplina Digital_
 
-### 
+#### 1️⃣ AVALIANDO O APRENDIZADO
+
+---
+

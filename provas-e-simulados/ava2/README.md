@@ -2,7 +2,8 @@
 
 ## (ARA0105 / 2023.2) Turma 9001
 
-### 2️⃣ AVALIANDO O APRENDIZADO
+#### _Disciplina Digital_
+#### 2️⃣ AVALIANDO O APRENDIZADO
 
 1.  No cartão da Mega Sena, uma aposta corresponde à escolha de 6 números diferentes, dos 60 dis­poníveis.
 
